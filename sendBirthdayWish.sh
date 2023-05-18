@@ -1,1 +1,1 @@
-php path/to/folder//index.php
+php path/to/folder/index.php
