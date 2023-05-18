@@ -1,0 +1,3 @@
+John Doe;1996-05-19;john@xyz.com
+Alice;1996-08-08;alice@xyz.com
+Bob;1993-09-05;bob@xyz.com
